@@ -11,6 +11,8 @@ public class Bo {
 public void renu()
 {
 	}
+	public void sai(){
+		
   
 
 }
