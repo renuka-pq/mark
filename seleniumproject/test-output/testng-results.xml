@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-24T16:04:22 IST" name="Default suite" finished-at="2023-05-24T16:04:38 IST" duration-ms="15312">
+    <groups>
+    </groups>
+    <test started-at="2023-05-24T16:04:22 IST" name="Default test" finished-at="2023-05-24T16:04:38 IST" duration-ms="15312">
+      <class name="conselenium.renu$NewTest">
+        <test-method signature="f()[pri:0, instance:conselenium.renu$NewTest@581ac8a8]" started-at="2023-05-24T16:04:22 IST" name="f" finished-at="2023-05-24T16:04:38 IST" duration-ms="15243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- conselenium.renu$NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
