@@ -12,6 +12,8 @@ public void renu()
 {
 	}
 	public void sai(){
+		int a = 2;
+	}
 		
   
 
